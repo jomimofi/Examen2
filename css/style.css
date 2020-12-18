@@ -1,0 +1,94 @@
+body{
+	font-size: 15px;
+	color: #777;
+	font-family: 'Catamaran', sans-serif;
+}
+header{
+	position: relative;
+	background-color: #f9f9f9;
+	width: 100%;
+	top:0;
+}
+#hero{
+	background-image: url("..//img/home-slide.jpg");
+	padding-top: 30px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10%;
+	background-color: #f9f9f9;
+}
+
+#hero h1{
+	padding-top: 30px;
+	color: #282d33;
+	font-size: 70px;
+	font-weight: bold;
+}
+.rcorners1 {
+  border-radius: 25px;
+  background: #282d33;
+  padding: 20px;
+  width: 140px;
+  height: 60px;
+	color: white;
+  font-weight: bold;
+	font-size: 90px;
+}
+#CTAProducts{
+	background-image: url("..//img/product-parallax.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10%;
+	background-color: #898989;
+}
+#CTAProducts h1{
+	font-size: 100px;
+}
+.texto{
+	text-align: center;
+	color:white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.texto2{
+	padding-top: 40px;
+}
+
+#InfoProducto{
+	padding-top: 30px;
+	padding-bottom: 15px;
+	color: #282d33;
+}
+#infoproducto h2{
+	font-size: 60px;
+}
+#InfoProducto p{
+	font-size: 25px;
+	color:#898989;
+}
+#CTAFlexibility{
+	color: white;
+	background-image: url("..//img/product-parallax-2.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10%;
+	background-color: #898989;
+}
+.texto3{
+	padding-top: 30px;
+}
+footer{
+	background-color: #30363d;
+	padding: 30px;
+	color: #999;
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+}
+footer p{
+	margin-bottom: 0;
+}
+
